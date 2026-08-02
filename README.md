@@ -8,12 +8,16 @@
 - Animals, Food & Drink, Actions, Places, Objects, and Concepts
 - Built-in round timer
 - No repeated prompts within the current session
-- English and Chinese interfaces
+- English interface; Chinese localization is planned
 - Free to use with no sign-up or download
 
 ## Try It
 
 Open the tool at **[pictionarywordgenerator.io](https://pictionarywordgenerator.io/)**.
+
+## Developer Guide
+
+- [Build a Filtered, No-Repeat Random Picker in TypeScript](docs/filtered-no-repeat-random-picker.md)
 
 This public repository is a lightweight project listing. The application source code is maintained privately and is not distributed here.
 
