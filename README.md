@@ -5,8 +5,8 @@
 ## Features
 
 - Easy, Medium, and Hard difficulty levels
-- Animals, Food & Drink, Actions, Places, Objects, and Concepts
-- Built-in round timer
+- Animals, Food & Drink, Actions, Places, Objects, Concepts, and Pop Culture
+- Built-in 60- or 90-second round timer
 - No repeated prompts within the current session
 - English interface; Chinese localization is planned
 - Free to use with no sign-up or download
@@ -18,6 +18,7 @@ Open the tool at **[pictionarywordgenerator.io](https://pictionarywordgenerator.
 ## Developer Guide
 
 - [Build a Filtered, No-Repeat Random Picker in TypeScript](docs/filtered-no-repeat-random-picker.md)
+- [From Random Picker to Round Engine: Designing a No-Repeat Game State Machine in React](docs/no-repeat-round-engine-state-machine.md)
 
 This public repository is a lightweight project listing. The application source code is maintained privately and is not distributed here.
 
